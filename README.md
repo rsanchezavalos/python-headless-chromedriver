@@ -3,8 +3,7 @@
 This is a Docker container with python and selenium that you can use for headless web scraping. 
 It uses Chrome as driver.
 
-See [Dockerfile](https://github.com/).
-
+See [Dockerfile](https://github.com/rsanchezavalos/python-headless-chromedriver/blob/master/Dockerfile).
 
 ### Dependencies
 You can change the requirements, it currently installs:
